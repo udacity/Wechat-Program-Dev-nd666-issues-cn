@@ -2,7 +2,7 @@
 
 ### 创建Issue
 
-打开仓库链接：https://github.com/udacity/Wechat-Program-Dec-nd666-issues-cn/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](https://github.com/udacity/fend-issues-zh/raw/master/beta-test/new-issue.png)
+打开仓库链接：https://github.com/udacity/Wechat-Program-Dev-nd666-issues-cn ，选择 `Issues` 面板新建 `issue` ：![new issue](https://github.com/udacity/fend-issues-zh/raw/master/beta-test/new-issue.png)
 
 
 
